@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
-<<<<<<< HEAD
   <runtime name="Apache Tomcat v8.5"/>
-  <fixed facet="wst.jsdt.web"/>
-  <fixed facet="java"/>
-  <fixed facet="jst.web"/>
-  <installed facet="java" version="1.8"/>
-  <installed facet="jst.web" version="3.1"/>
-=======
-  <fixed facet="java"/>
-  <fixed facet="jst.web"/>
-  <fixed facet="wst.jsdt.web"/>
-  <installed facet="java" version="1.8"/>
-  <installed facet="jst.web" version="3.0"/>
->>>>>>> branch 'master' of https://github.com/jwlove0928/ThirdProject
-  <installed facet="wst.jsdt.web" version="1.0"/>
+  <secondary-runtime name="jre1.8.0_212"/>
 </faceted-project>
