@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-하녕이 뵹띤
+짱구할아버지
 </body>
 </html>
