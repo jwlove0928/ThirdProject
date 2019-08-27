@@ -8,9 +8,6 @@
 </head>
 <body>
 <<<<<<< HEAD
-asdfasdf;;;
-=======
-bzbzbzbzbzbzbz
->>>>>>> branch 'master' of https://github.com/jwlove0928/ThirdProject
+하녕이 뵹띤
 </body>
 </html>
