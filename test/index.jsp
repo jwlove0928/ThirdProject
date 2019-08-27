@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 asdfasdf;;;
+=======
+bzbzbzbzbzbzbz
+>>>>>>> branch 'master' of https://github.com/jwlove0928/ThirdProject
 </body>
 </html>
