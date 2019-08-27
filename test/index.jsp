@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-asdfasdf;;;
-=======
-bzbzbzbzbzbzbz
->>>>>>> branch 'master' of https://github.com/jwlove0928/ThirdProject
+나의 첫 테스트
 </body>
 </html>
